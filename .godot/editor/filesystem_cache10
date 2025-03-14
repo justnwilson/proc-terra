@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1741922298
+icon.png::CompressedTexture2D/CompressedTexture2D::1373138238777969171::1741920471::1741922117::1::::<><><>0<>0<>322d832acc55797b1f5737e9fa6a4716<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+::res://assets/::1741922117
+new_character.png::CompressedTexture2D/CompressedTexture2D::1865256928795806077::1741572771::1741922117::1::::<><><>0<>0<>e2b3eb33d58188d9815cb1c49f5bc86f<>res://.godot/imported/new_character.png-4756fc5fac79501a94a9fafecca5d480.ctex::
+terra_pallet.png::CompressedTexture2D/CompressedTexture2D::2710243544834186178::1741917860::1741922117::1::::<><><>0<>0<>b3745826a905cf734184a1500451050f<>res://.godot/imported/terra_pallet.png-aaf1a7741975961d4c55123b0ab0438a.ctex::
+::res://scenes/::1741922269
+player.tscn::PackedScene/PackedScene::953673911010295501::1741921301::0::1::::<><><>0<>0<><>::uid://b31h1uepj5qqg::::res://scripts/player.gd<>uid://1tsrkrwoexmj::::res://assets/new_character.png
+proc_terra.tscn::PackedScene::2487956872766917108::1741922269::0::1::::<><><>0<>0<><>::uid://c2ht743k7aval::::res://scripts/proc_terra.gd<>uid://beu4kync8qu0q::::res://assets/terra_pallet.png<>uid://nt74txyyhp2d::::res://scenes/player.tscn
+::res://scripts/::1741921035
+player.gd::GDScript/GDScript::4405854634095431622::1741572771::0::1::::<>CharacterBody2D<><>0<>0<><>::
+proc_terra.gd::GDScript/GDScript::6683603125087833503::1741921116::0::1::::<>Node2D<><>0<>0<><>::
