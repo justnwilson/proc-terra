@@ -1,8 +1,9 @@
-[gd_scene load_steps=13 format=3 uid="uid://bbpgjy31uekqm"]
+[gd_scene load_steps=14 format=3 uid="uid://bbpgjy31uekqm"]
 
 [ext_resource type="Script" uid="uid://c2ht743k7aval" path="res://scripts/proc_terra.gd" id="1_kq7s7"]
 [ext_resource type="Texture2D" uid="uid://beu4kync8qu0q" path="res://assets/terra_pallet.png" id="2_kq7s7"]
 [ext_resource type="PackedScene" uid="uid://nt74txyyhp2d" path="res://scenes/player.tscn" id="3_cv10t"]
+[ext_resource type="Script" uid="uid://bg602wccssa7p" path="res://scenes/camera_2d.gd" id="4_tf8kn"]
 
 [sub_resource type="Gradient" id="Gradient_3ehfv"]
 
@@ -120,3 +121,4 @@ SPEED = 300.0
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
 position = Vector2(0, -6)
+script = ExtResource("4_tf8kn")
